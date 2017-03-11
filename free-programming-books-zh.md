@@ -80,7 +80,7 @@
 
 ### NoSQL
 
-* [Disque 使用教程](http://disquebook.com)
+* [Disque 使用教程](http://disque.huangz.me)
 * [Neo4j .rb 中文資源](http://neo4j.tw)
 * [Redis 命令参考](http://redisdoc.com)
 * [Redis 设计与实现](http://redisbook.com)
@@ -355,7 +355,7 @@
 * [C++ 并发编程(基于C++11)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/)
 * [C++ 并发编程指南](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
-* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF版)
+* [Cmake 实践](http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
@@ -541,7 +541,7 @@
   * [Underscore.js中文文档](http://learningcn.com/underscore/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) (深入JavaScript语言核心机制的系列图书)
 * Zepto.js
-  * [Zepto.js 中文文档](http://mweb.baidu.com/zeptoapi/)
+  * [Zepto.js 中文文档](http://css88.com/doc/zeptojs_api)
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html)  (注:原文由[为之漫笔](http://www.cn-cuckoo.com) 翻译，原始地址无法打开，所以此处地址为我博客上的备份)
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) (开源中国)
 * [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
